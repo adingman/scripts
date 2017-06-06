@@ -1,2 +1,0 @@
-# scripts
-Adam's Scripts
